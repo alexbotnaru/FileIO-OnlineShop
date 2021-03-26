@@ -1,5 +1,9 @@
 <?php
-namespace Module\ProcuctModule;
+namespace Module\ProcuctModule\Application\Contract;
+
+use Module\ProcuctModule\Domain\Product;
+use Module\ProcuctModule\Domain\ProductSearchCriteria;
+use Module\ProcuctModule\Domain\ProductCollection;
 
 interface ProductCatalogServiceInterface {
 	 

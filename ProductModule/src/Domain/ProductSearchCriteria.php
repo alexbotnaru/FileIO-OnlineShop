@@ -1,5 +1,5 @@
 <?php
-namespace Module\ProcuctModule;
+namespace Module\ProcuctModule\Domain;
 
 class ProductSearchCriteria{
     private string $name;

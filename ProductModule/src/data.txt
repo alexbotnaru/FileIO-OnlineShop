@@ -1,0 +1,48 @@
+{
+"name" : "apple",
+ "code" : "1a",
+ "price" : 10.50,
+ "category" : "fruit"
+},
+
+{
+"name" : "banana",
+ "code" : "2b",
+ "price" : 16.50,
+ "category" : "fruit"
+},
+
+{
+"name" : "potato",
+ "code" : "3p",
+ "price" : 8.65,
+ "category" : "vegetable"
+},
+
+{
+"name" : "tomato",
+ "code" : "4t",
+ "price" : 9.70,
+ "category" : fruit"
+},
+
+{
+"name" : "potato",
+ "code" : "3p",
+ "price" : 8.65,
+ "category" : "vegetable"
+},
+
+{
+"name" : "blueberries",
+ "code" : "15b",
+ "price" : 20.65,
+ "category" : "berries"
+},
+
+{
+"name" : "strawberries",
+ "code" : "15s",
+ "price" : 25.65,
+ "category" : "berries"
+},

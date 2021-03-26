@@ -1,0 +1,11 @@
+{
+    "name": "alexbotnaru/product-module",
+    "description": "n",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "Module\\ProductModule\\": "src/"
+        }
+    }
+}
